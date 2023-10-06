@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\flappygame\flappygame\bin\Debug\flappygame.exe.config
+C:\Users\DELL\Desktop\flappygame\flappygame\bin\Debug\flappygame.exe
+C:\Users\DELL\Desktop\flappygame\flappygame\bin\Debug\flappygame.pdb
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.Form1.resources
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.Properties.Resources.resources
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.exe
+C:\Users\DELL\Desktop\flappygame\flappygame\obj\Debug\flappygame.pdb
